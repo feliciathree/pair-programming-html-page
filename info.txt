@@ -1,0 +1,56 @@
+`
+- Give the first <div> element an id of "app"
+
+- In the html file, we have imported the css file in the
+  <head> tag, delete the background-color red in the css file
+
+- Give the body background a shade of gray - use what you want
+  Note: in order to see changes to the css you 
+  will have to hit the refresh button in the preview
+  browser window
+
+- Using the first divs id tag in the css stylesheet, 
+  change the font size to 20px 
+
+- delete the starting text and create a new h1 tag 
+  within the div, give it a name like "My Pet Website",
+  feel free to change it to your liking,and change the 
+  <title> tag and give it a name of whatever you want, 
+  this is the tab name in your browser
+
+- under the h1 tag create a new div, and optionally
+  give it an id with and assign a new background color
+
+- in the new div create a paragraph tag, put something 
+  like "things my pet love" or "things dogs love"
+
+- create an unordered list, and within the unordered 
+  list create at least 3 list items and think of/find
+  3 facts about that top (such as "things dogs love")
+
+- repeat the last two steps, this time do something 
+  like "things dogs hate"
+
+- At the top of the first div after the h1, create a
+  new img tag, go to google and find an image of a dog,
+  and copy the link to the picture and give the img tag 
+  the src of that link note: make sure you go to the website
+  the image is on and copy the link from there, copying it
+  from google doesn't work properly
+
+- Give the img tag an alt (if you hover over the picture 
+  it will show the alt text)  the alt text should be a 
+  short description of the photo
+
+- Stylize your photo! Give the img tag an id or class 
+  and use that to stylize the photo at least give it 
+  a border-color, border-width, border-style(use solid),
+  and border-radius of 50%,
+
+- As long as everything worked you are finished, feel 
+  free to experiment with adding additional styling, 
+  such as changing text colors, changing the fonts, 
+  background colors, whatever you want.
+
+View the completed problem here: https://codesandbox.io/s/mokjnyqx98
+`
